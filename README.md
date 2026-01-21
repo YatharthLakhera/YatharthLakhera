@@ -1,12 +1,16 @@
 # 👋 Yatharth Lakhera | AI Engineer & Product Builder
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yatharthlakhera.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatharthlakhera-17935a87)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatharthlakhera75@gmail.com)
+
 **3X Founding Engineer | Building AI-Powered Products That Scale**
 
 I don't just build AI systems—I build products that ship fast, scale efficiently, and deliver measurable business impact. My approach: ruthless optimization, data-driven features, and zero tolerance for bloat.
 
 ## 🚀 Recent Impact
 
-**Current: Technical Lead @ Spocto X (Yubi Company)**
+**Data Engineering & Visualization Project**
 - Building real-time analytics dashboard (Apache Superset-style) with LLM-powered query optimization
 - Achieved **P95 latency <200ms** through lazy async caching and smart data sync
 - Empowering stakeholders with self-service data insights across multiple databases
@@ -67,7 +71,7 @@ I don't just build AI systems—I build products that ship fast, scale efficient
 
 ## 🎯 Case Studies
 
-**1. Real-Time Analytics with LLM Query Builder (Spocto X)**
+**1. Real-Time Analytics with LLM Query Builder**
 Challenge: Internal teams needed self-service analytics without SQL expertise
 Solution: Built dashboard with LLM-powered query generation, multi-DB support, and intelligent caching
 Impact: Sub-200ms P95 latency, empowered non-technical stakeholders
@@ -87,11 +91,21 @@ Impact: 50%+ reduction in operational load, 25% call pickup improvement
 - **Bias-Free Feature Development**: I kill features that don't move metrics, regardless of who suggests them
 - **Speed + Quality**: Shipped production systems in weeks, not months (revamped entire backend in 30 days)
 - **Full-Stack Capability**: From LLM agents to infrastructure, no-code tools to distributed systems
-- **Business-First Thinking**: Every technical decision ties back to ROI and user impact
+- **Technical Depth + Business Acumen**: Every technical decision ties back to ROI and user impact
+- **Founding Engineer DNA**: Comfortable with ambiguity and rapid iteration while pushing product/growth stakeholders to validate before over-building
+- **Optimization Mindset**: Cost optimization is built into my architecture decisions from day one
 
-## 📫 Let's Build Something
+## 📫 💬 Let's Connect
 
-Building an AI-powered product? Need a founding engineer who ships fast and optimizes ruthlessly? Let's talk.
+### I'm always interested in:
+- AI/ML opportunities where I can leverage LLMs, RAG, and AI Agents
+- Founding engineer roles in early-stage startups building impactful products.
+
+### Currently?
+- 💪 Building real-time data analytics platforms powered by LLM query optimization
+- 📚 Learning Agent Harness, Local LLM and Context Engineering
+
+**Building an AI-powered product? Need a founding engineer who ships fast and optimizes ruthlessly? Let's talk.**
 
 - 🌐 Portfolio: [yatharthlakhera.in](https://yatharthlakhera.in/)
 - 💼 LinkedIn: [yatharth-lakhera](https://www.linkedin.com/in/yatharth-lakhera-17935a87/)
