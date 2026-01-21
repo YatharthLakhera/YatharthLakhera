@@ -8,9 +8,15 @@
 
 I don't just build AI systems—I build products that ship fast, scale efficiently, and deliver measurable business impact. My approach: ruthless optimization, data-driven features, and zero tolerance for bloat.
 
-## 🚀 Recent Impact
+## 🏆 Top Wins
+- Built **Financial AI Agent** for a Stealth Startup helping **raise $100k+ in funding**.
+- Built ETL Aggregation Pipeline of **100M+ Data Points** while **reducing cost by ~81%** with read latency of **P95 <200ms**.
+- Increase Insurance/Compliance Documents **processing speed by 80%(5hr → 1hr) and >95% better classification**.
+- Built Customer Call Automation **handling 30k+ calls/day** with **pickup-rate increase 25-40%**(high variation due to external factors)
 
-**Data Engineering & Visualization Project**
+## 🚀 Impact So Far
+
+**Current Project : Data Engineering & Visualization Project**
 - Building real-time analytics dashboard (Apache Superset-style) with LLM-powered query optimization
 - Achieved **P95 latency <200ms** through lazy async caching and smart data sync
 - Empowering stakeholders with self-service data insights across multiple databases
